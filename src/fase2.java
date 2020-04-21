@@ -13,14 +13,6 @@ public class fase2 {
         myname_list.add('s');
         myname_list.add('c');
         myname_list.add('o');
-        myname_list.add(' ');
-        myname_list.add('s');
-        myname_list.add('a');
-        myname_list.add('r');
-        myname_list.add('r');
-        myname_list.add('i');
-        myname_list.add('a');
-        myname_list.add('s');
         // Loop for printing characters
         for (char letra : myname_list) {
            if (letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o'|| letra == 'u') {

@@ -1,0 +1,2 @@
+public class fase2 {
+}
